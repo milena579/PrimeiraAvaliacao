@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white: #ffffff;
+  --black: #171717;
+  --menu: #457d97;
+  --amareloMedio: #f7d683;
+  --amareloEscuro:#ccb24c ;
+  --amareloClaro: #fffdc0;
+}
+
+* {
+  scroll-behavior: smooth;
+}
